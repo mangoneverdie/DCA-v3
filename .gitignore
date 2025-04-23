@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+dca_status.json
+dca_history.json
+.vscode/
+.idea/
